@@ -91,6 +91,28 @@ $ xelatex {your-cv}.tex
 
 This should result in the creation of ``{your-cv}.pdf``
 
+#### Issue
+
+You might encounter error shows:
+```bash
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "FontAwesome" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!............................................... 
+```
+This indicate that `FontAwesome` is not installed in your environment. Go to [**Font-Awesome**](http://github.com/FortAwesome/Font-Awesome/blob/v4.7.0/fonts/FontAwesome.otf) and download this. In mac, you can move it into your application Font Book as installation.
+
+Add a new line in your `cv.tex` for xelax to use this font:
+```bash
+\usepackage{fontawesome}
+```
+
 
 ## Credit
 
