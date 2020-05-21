@@ -26,7 +26,7 @@ You can see [PDF](https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/e
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| (https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv-0.png)| (https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv-1.png)|
+| [![Résumé](https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv-0.jpg)](https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv.pdf)  | [![Résumé](https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv-1.jpg)](https://raw.githubusercontent.com/pcwang23/Awesome-CV/master/examples/cv.pdf) |
 
 ## How to Use
 
